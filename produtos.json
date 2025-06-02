@@ -1,0 +1,59 @@
+{
+    "empresa": {
+      "nome": "Tia da Van",
+      "logo": "img/Tia-removebg-preview-removebg-preview.png"
+    },
+    "categorias": [
+      {
+        "id": 1,
+        "nome": "Salgados",
+        "imagem": "img/salgado.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Doces",
+        "imagem": "img/doce.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "Bebidas",
+        "imagem": "img/refri.jpg"
+      }
+    ],
+    "principaisProdutos": [
+      {
+        "id": 4,
+        "nome": "Coca-Cola (500ml)",
+        "imagem": "img/refri.jpg",
+        "preco": 10.00
+      },
+      {
+        "id": 5,
+        "nome": "Croissant",
+        "imagem": "img/croissant.jpg",
+        "preco": 10.00
+      }
+    ],
+    "outrosProdutos": [
+      {
+        "id": 6,
+        "nome": "Lorem Ipsum 1",
+        "imagem": "Tia.png",
+        "preco": 10.00
+      },
+      {
+        "id": 7,
+        "nome": "Lorem Ipsum 2",
+        "imagem": "Tia.png",
+        "preco": 10.00
+      },
+      {
+        "id": 8,
+        "nome": "Lorem Ipsum 3",
+        "imagem": "Tia.png",
+        "preco": 10.00
+      }
+    ]
+  }
+
+  
