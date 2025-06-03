@@ -49,15 +49,15 @@
       "nome": "Hamburgão",
       "preco": 10.00,
       "imagem": "img/hamburgao.jpg",
-      "alt": "Produto 1",
+      "alt": "Hamburgao",
       "tipo": "produto"
     },
     {
       "id": 7,
-      "nome": "Produto Especial 2",
+      "nome": "Esfiha",
       "preco": 10.00,
-      "imagem": "Tia.png",
-      "alt": "Produto 2",
+      "imagem": "img/esfiha.jpeg",
+      "alt": "Esfiha",
       "tipo": "produto"
     },
     {
