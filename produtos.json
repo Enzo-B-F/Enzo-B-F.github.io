@@ -6,7 +6,7 @@
       "preco": 10.00,
       "imagem": "img/salgado.jpg",
       "alt": "Coxinhas",
-      "tipo": "produto"
+      "tipo": "categoria"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "preco": 10.00,
       "imagem": "img/doce.jpg",
       "alt": "Rosquinhas",
-      "tipo": "produto"
+      "tipo": "categoria"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "preco": 10.00,
       "imagem": "img/minipizza.png",
       "alt": "Mini Pizza",
-      "tipo": "produto"
+      "tipo": "categoria"
     }
   ],
   "principaisProdutos": [
