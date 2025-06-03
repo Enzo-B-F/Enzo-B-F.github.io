@@ -2,31 +2,34 @@
   "categorias": [
     {
       "id": 1,
-      "nome": "Salgados",
+      "nome": "Coxinhas",
+      "preco": 10.00,
       "imagem": "img/salgado.jpg",
-      "alt": "Salgados",
-      "tipo": "categoria"
+      "alt": "Coxinhas",
+      "tipo": "produto"
     },
     {
       "id": 2,
-      "nome": "Doces",
+      "nome": "Rosquinhas",
+      "preco": 10.00,
       "imagem": "img/doce.jpg",
-      "alt": "Doces",
-      "tipo": "categoria"
+      "alt": "Rosquinhas",
+      "tipo": "produto"
     },
     {
       "id": 3,
-      "nome": "Bebidas",
-      "imagem": "img/refri.jpg",
-      "alt": "Bebidas",
-      "tipo": "categoria"
+      "nome": "Mini Pizza",
+      "preco": 10.00,
+      "imagem": "img/minipizza.jpg",
+      "alt": "Mini Pizza",
+      "tipo": "produto"
     }
   ],
   "principaisProdutos": [
     {
       "id": 4,
       "nome": "Coca-Cola (500ml)",
-      "preco": 10.00,
+      "preco": 5.00,
       "imagem": "img/refri.jpg",
       "alt": "Coca-Cola",
       "tipo": "produto"
