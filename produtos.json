@@ -20,7 +20,7 @@
       "id": 3,
       "nome": "Mini Pizza",
       "preco": 10.00,
-      "imagem": "img/minipizza.jpg",
+      "imagem": "img/minipizza.png",
       "alt": "Mini Pizza",
       "tipo": "produto"
     }
