@@ -46,9 +46,9 @@
   "outrosProdutos": [
     {
       "id": 6,
-      "nome": "Produto Especial 1",
+      "nome": "Hamburgão",
       "preco": 10.00,
-      "imagem": "Tia.png",
+      "imagem": "img/hamburgao.jpg",
       "alt": "Produto 1",
       "tipo": "produto"
     },
