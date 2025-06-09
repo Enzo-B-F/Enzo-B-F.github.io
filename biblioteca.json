@@ -1,0 +1,389 @@
+{
+    "biblioteca": {
+      "ficção": [
+        {
+          "id": 1,
+          "titulo": "Dom Casmurro",
+          "autor": "Machado de Assis",
+          "isbn": "978-85-7326-451-2",
+          "anoPublicacao": 1899,
+          "editora": "Companhia das Letras",
+          "categoria": "Ficção",
+          "descricao": "Clássico da literatura brasileira que narra a história de Bentinho e sua suspeita sobre a traição de Capitu.",
+          "numeroPaginas": 256,
+          "disponivel": true
+        },
+        {
+          "id": 2,
+          "titulo": "O Cortiço",
+          "autor": "Aluísio Azevedo",
+          "isbn": "978-85-254-3012-8",
+          "anoPublicacao": 1890,
+          "editora": "Martin Claret",
+          "categoria": "Ficção",
+          "descricao": "Romance naturalista que retrata a vida em um cortiço no Rio de Janeiro do século XIX.",
+          "numeroPaginas": 304,
+          "disponivel": true
+        },
+        {
+          "id": 3,
+          "titulo": "Capitães da Areia",
+          "autor": "Jorge Amado",
+          "isbn": "978-85-7326-123-8",
+          "anoPublicacao": 1937,
+          "editora": "Companhia das Letras",
+          "categoria": "Ficção",
+          "descricao": "História de meninos abandonados que vivem nas ruas de Salvador.",
+          "numeroPaginas": 280,
+          "disponivel": false
+        },
+        {
+          "id": 4,
+          "titulo": "1984",
+          "autor": "George Orwell",
+          "isbn": "978-85-359-0277-4",
+          "anoPublicacao": 1949,
+          "editora": "Companhia das Letras",
+          "categoria": "Ficção",
+          "descricao": "Distopia clássica sobre um regime totalitário e vigilância extrema.",
+          "numeroPaginas": 416,
+          "disponivel": true
+        },
+        {
+          "id": 5,
+          "titulo": "O Nome da Rosa",
+          "autor": "Umberto Eco",
+          "isbn": "978-85-209-2387-1",
+          "anoPublicacao": 1980,
+          "editora": "Record",
+          "categoria": "Ficção",
+          "descricao": "Romance histórico e policial ambientado em uma abadia medieval.",
+          "numeroPaginas": 632,
+          "disponivel": true
+        }
+      ],
+      "técnico": [
+        {
+          "id": 6,
+          "titulo": "Clean Code",
+          "autor": "Robert C. Martin",
+          "isbn": "978-0-13-235088-4",
+          "anoPublicacao": 2008,
+          "editora": "Prentice Hall",
+          "categoria": "Técnico",
+          "descricao": "Guia para escrever código limpo e manutenível.",
+          "numeroPaginas": 464,
+          "disponivel": true
+        },
+        {
+          "id": 7,
+          "titulo": "Effective Java",
+          "autor": "Joshua Bloch",
+          "isbn": "978-0-13-468599-1",
+          "anoPublicacao": 2017,
+          "editora": "Addison-Wesley",
+          "categoria": "Técnico",
+          "descricao": "Melhores práticas para programação em Java.",
+          "numeroPaginas": 412,
+          "disponivel": true
+        },
+        {
+          "id": 8,
+          "titulo": "Spring in Action",
+          "autor": "Craig Walls",
+          "isbn": "978-1-61729-120-7",
+          "anoPublicacao": 2020,
+          "editora": "Manning Publications",
+          "categoria": "Técnico",
+          "descricao": "Guia completo para desenvolvimento com Spring Framework.",
+          "numeroPaginas": 520,
+          "disponivel": false
+        },
+        {
+          "id": 9,
+          "titulo": "Design Patterns",
+          "autor": "Gang of Four",
+          "isbn": "978-0-20163-361-0",
+          "anoPublicacao": 1994,
+          "editora": "Addison-Wesley",
+          "categoria": "Técnico",
+          "descricao": "Padrões de design fundamentais para desenvolvimento de software.",
+          "numeroPaginas": 395,
+          "disponivel": true
+        },
+        {
+          "id": 10,
+          "titulo": "Microservices Patterns",
+          "autor": "Chris Richardson",
+          "isbn": "978-1-61729-454-3",
+          "anoPublicacao": 2018,
+          "editora": "Manning Publications",
+          "categoria": "Técnico",
+          "descricao": "Padrões e práticas para arquitetura de microsserviços.",
+          "numeroPaginas": 520,
+          "disponivel": true
+        }
+      ],
+      "história": [
+        {
+          "id": 11,
+          "titulo": "1808",
+          "autor": "Laurentino Gomes",
+          "isbn": "978-85-7542-259-1",
+          "anoPublicacao": 2007,
+          "editora": "Planeta",
+          "categoria": "História",
+          "descricao": "Como uma rainha louca, um príncipe medroso e uma corte corrupta enganaram Napoleão e mudaram a História de Portugal e do Brasil.",
+          "numeroPaginas": 414,
+          "disponivel": true
+        },
+        {
+          "id": 12,
+          "titulo": "Casa-Grande & Senzala",
+          "autor": "Gilberto Freyre",
+          "isbn": "978-85-209-2294-2",
+          "anoPublicacao": 1933,
+          "editora": "Record",
+          "categoria": "História",
+          "descricao": "Obra fundamental sobre a formação da família brasileira sob o regime patriarcal.",
+          "numeroPaginas": 719,
+          "disponivel": true
+        },
+        {
+          "id": 13,
+          "titulo": "O Povo Brasileiro",
+          "autor": "Darcy Ribeiro",
+          "isbn": "978-85-7326-015-6",
+          "anoPublicacao": 1995,
+          "editora": "Companhia das Letras",
+          "categoria": "História",
+          "descricao": "A formação e o sentido do Brasil segundo Darcy Ribeiro.",
+          "numeroPaginas": 476,
+          "disponivel": false
+        },
+        {
+          "id": 14,
+          "titulo": "Sapiens",
+          "autor": "Yuval Noah Harari",
+          "isbn": "978-85-359-2866-8",
+          "anoPublicacao": 2014,
+          "editora": "L&PM",
+          "categoria": "História",
+          "descricao": "Uma breve história da humanidade desde a Revolução Cognitiva até hoje.",
+          "numeroPaginas": 464,
+          "disponivel": true
+        },
+        {
+          "id": 15,
+          "titulo": "Escravidão",
+          "autor": "Laurentino Gomes",
+          "isbn": "978-85-7542-872-2",
+          "anoPublicacao": 2019,
+          "editora": "Globo Livros",
+          "categoria": "História",
+          "descricao": "Primeiro volume da trilogia sobre a escravidão no Brasil.",
+          "numeroPaginas": 448,
+          "disponivel": true
+        }
+      ],
+      "filosofia": [
+        {
+          "id": 16,
+          "titulo": "A República",
+          "autor": "Platão",
+          "isbn": "978-85-254-2156-0",
+          "anoPublicacao": -380,
+          "editora": "Martin Claret",
+          "categoria": "Filosofia",
+          "descricao": "Diálogo filosófico sobre justiça e o Estado ideal.",
+          "numeroPaginas": 352,
+          "disponivel": true
+        },
+        {
+          "id": 17,
+          "titulo": "Crítica da Razão Pura",
+          "autor": "Immanuel Kant",
+          "isbn": "978-85-254-1876-8",
+          "anoPublicacao": 1781,
+          "editora": "Martin Claret",
+          "categoria": "Filosofia",
+          "descricao": "Obra fundamental sobre os limites e alcance da razão humana.",
+          "numeroPaginas": 680,
+          "disponivel": false
+        },
+        {
+          "id": 18,
+          "titulo": "O Mundo de Sofia",
+          "autor": "Jostein Gaarder",
+          "isbn": "978-85-359-0084-8",
+          "anoPublicacao": 1991,
+          "editora": "Companhia das Letras",
+          "categoria": "Filosofia",
+          "descricao": "Romance que introduz conceitos filosóficos de forma acessível.",
+          "numeroPaginas": 560,
+          "disponivel": true
+        },
+        {
+          "id": 19,
+          "titulo": "Meditações",
+          "autor": "Marco Aurélio",
+          "isbn": "978-85-254-3245-0",
+          "anoPublicacao": 180,
+          "editora": "Martin Claret",
+          "categoria": "Filosofia",
+          "descricao": "Reflexões pessoais do imperador romano sobre estoicismo e vida.",
+          "numeroPaginas": 208,
+          "disponivel": true
+        },
+        {
+          "id": 20,
+          "titulo": "Assim Falou Zaratustra",
+          "autor": "Friedrich Nietzsche",
+          "isbn": "978-85-359-0318-4",
+          "anoPublicacao": 1883,
+          "editora": "Companhia das Letras",
+          "categoria": "Filosofia",
+          "descricao": "Obra filosófica sobre o übermensch e a morte de Deus.",
+          "numeroPaginas": 352,
+          "disponivel": true
+        }
+      ],
+      "ciência": [
+        {
+          "id": 21,
+          "titulo": "Cosmos",
+          "autor": "Carl Sagan",
+          "isbn": "978-85-359-0293-4",
+          "anoPublicacao": 1980,
+          "editora": "Companhia das Letras",
+          "categoria": "Ciência",
+          "descricao": "Viagem fascinante pelo universo e pela história da astronomia.",
+          "numeroPaginas": 432,
+          "disponivel": true
+        },
+        {
+          "id": 22,
+          "titulo": "A Origem das Espécies",
+          "autor": "Charles Darwin",
+          "isbn": "978-85-254-2789-0",
+          "anoPublicacao": 1859,
+          "editora": "Martin Claret",
+          "categoria": "Ciência",
+          "descricao": "Teoria da evolução por seleção natural.",
+          "numeroPaginas": 464,
+          "disponivel": true
+        },
+        {
+          "id": 23,
+          "titulo": "Uma Breve História do Tempo",
+          "autor": "Stephen Hawking",
+          "isbn": "978-85-7542-139-6",
+          "anoPublicacao": 1988,
+          "editora": "Intrínseca",
+          "categoria": "Ciência",
+          "descricao": "Explicação acessível sobre cosmologia e física teórica.",
+          "numeroPaginas": 256,
+          "disponivel": false
+        },
+        {
+          "id": 24,
+          "titulo": "O Gene Egoísta",
+          "autor": "Richard Dawkins",
+          "isbn": "978-85-359-0635-2",
+          "anoPublicacao": 1976,
+          "editora": "Companhia das Letras",
+          "categoria": "Ciência",
+          "descricao": "Perspectiva gene-centrada da evolução.",
+          "numeroPaginas": 544,
+          "disponivel": true
+        },
+        {
+          "id": 25,
+          "titulo": "Física Quântica",
+          "autor": "Michio Kaku",
+          "isbn": "978-85-7542-845-6",
+          "anoPublicacao": 2014,
+          "editora": "Rocco",
+          "categoria": "Ciência",
+          "descricao": "Introdução à mecânica quântica para leigos.",
+          "numeroPaginas": 320,
+          "disponivel": true
+        }
+      ],
+      "biografia": [
+        {
+          "id": 26,
+          "titulo": "Steve Jobs",
+          "autor": "Walter Isaacson",
+          "isbn": "978-85-359-2063-1",
+          "anoPublicacao": 2011,
+          "editora": "Companhia das Letras",
+          "categoria": "Biografia",
+          "descricao": "Biografia autorizada do co-fundador da Apple.",
+          "numeroPaginas": 656,
+          "disponivel": true
+        },
+        {
+          "id": 27,
+          "titulo": "Minha Luta",
+          "autor": "Barack Obama",
+          "isbn": "978-85-7542-678-0",
+          "anoPublicacao": 1995,
+          "editora": "Globo Livros",
+          "categoria": "Biografia",
+          "descricao": "Memórias do ex-presidente americano sobre sua juventude.",
+          "numeroPaginas": 464,
+          "disponivel": true
+        },
+        {
+          "id": 28,
+          "titulo": "Olga",
+          "autor": "Fernando Morais",
+          "isbn": "978-85-359-0156-2",
+          "anoPublicacao": 1985,
+          "editora": "Companhia das Letras",
+          "categoria": "Biografia",
+          "descricao": "Biografia de Olga Benário Prestes, revolucionária alemã.",
+          "numeroPaginas": 432,
+          "disponivel": false
+        },
+        {
+          "id": 29,
+          "titulo": "Einstein",
+          "autor": "Walter Isaacson",
+          "isbn": "978-85-359-1089-1",
+          "anoPublicacao": 2007,
+          "editora": "Companhia das Letras",
+          "categoria": "Biografia",
+          "descricao": "Biografia completa do físico Albert Einstein.",
+          "numeroPaginas": 704,
+          "disponivel": true
+        },
+        {
+          "id": 30,
+          "titulo": "Chatô: O Rei do Brasil",
+          "autor": "Fernando Morais",
+          "isbn": "978-85-359-0421-1",
+          "anoPublicacao": 1994,
+          "editora": "Companhia das Letras",
+          "categoria": "Biografia",
+          "descricao": "Biografia de Assis Chateaubriand, magnata das comunicações.",
+          "numeroPaginas": 752,
+          "disponivel": true
+        }
+      ]
+    },
+    "estatisticas": {
+      "totalLivros": 30,
+      "livrosDisponiveis": 22,
+      "livrosEmprestados": 8,
+      "categorias": {
+        "ficção": 5,
+        "técnico": 5,
+        "história": 5,
+        "filosofia": 5,
+        "ciência": 5,
+        "biografia": 5
+      }
+    }
+  }
