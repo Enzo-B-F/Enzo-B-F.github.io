@@ -6,7 +6,27 @@
       "preco": 10.00,
       "imagem": "img/salgado.jpg",
       "alt": "Coxinhas",
-      "tipo": "categoria"
+      "tipo": "categoria",
+      "sabor": [
+        {
+          "id": 11,
+          "nome": "Coxinha de frango",
+          "preco": 10.00,
+          "tipo": "sabor"
+        },
+        {
+          "id": 12,
+          "nome": "Coxinha de carne",
+          "preco": 10.00,
+          "tipo": "sabor"
+        },
+        {
+          "id": 13,
+          "nome": "Coxinha de frango a catupiry",
+          "preco": 10.00,
+          "tipo": "sabor"
+        }
+      ]
     },
     {
       "id": 2,
@@ -14,7 +34,33 @@
       "preco": 10.00,
       "imagem": "img/doce.jpg",
       "alt": "Rosquinhas",
-      "tipo": "categoria"
+      "tipo": "categoria",
+      "sabor": [
+        {
+          "id": 21,
+          "nome": "Rosquinha de baunilha",
+          "preco": 10.00,
+          "tipo": "sabor"
+        },
+        {
+          "id": 22,
+          "nome": "Rosquinha de chocolate",
+          "preco": 10.00,
+          "tipo": "sabor"
+        },
+        {
+          "id": 23,
+          "nome": "Rosquinha de leite",
+          "preco": 10.00,
+          "tipo": "sabor"
+        },
+        {
+          "id": 24,
+          "nome": "Rosquinha de coco",
+          "preco": 10.00,
+          "tipo": "sabor"
+        }
+      ]
     },
     {
       "id": 3,
@@ -22,7 +68,39 @@
       "preco": 10.00,
       "imagem": "img/minipizza.png",
       "alt": "Mini Pizza",
-      "tipo": "categoria"
+      "tipo": "categoria",
+      "sabor": [
+        {
+          "id": 31,
+          "nome": "Mini Pizza de calabresa",
+          "preco": 10.00,
+          "tipo": "sabor"
+        },
+        {
+          "id": 32,
+          "nome": "Mini Pizza de queijo mussarela",
+          "preco": 10.00,
+          "tipo": "sabor"
+        },
+        {
+          "id": 33,
+          "nome": "Mini Pizza de frango com catupiry",
+          "preco": 10.00,
+          "tipo": "sabor"
+        },
+        {
+          "id": 34,
+          "nome": "Mini Pizza de marguerita",
+          "preco": 10.00,
+          "tipo": "sabor"
+        },
+        {
+          "id": 35,
+          "nome": "Mini Pizza de presunto e queijo",
+          "preco": 10.00,
+          "tipo": "sabor"
+        }
+      ]
     }
   ],
   "principaisProdutos": [
