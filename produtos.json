@@ -3,129 +3,28 @@
     {
       "id": 1,
       "nome": "Coxinhas",
+      "preco": 10.00,
       "imagem": "img/salgado.jpg",
       "alt": "Coxinhas",
-      "tipo": "categoria",
-      "key": "coxinha"
+      "tipo": "categoria"
     },
     {
       "id": 2,
       "nome": "Rosquinhas",
+      "preco": 10.00,
       "imagem": "img/doce.jpg",
       "alt": "Rosquinhas",
-      "tipo": "categoria",
-      "key": "rosquinha"
+      "tipo": "categoria"
     },
     {
       "id": 3,
       "nome": "Mini Pizza",
+      "preco": 10.00,
       "imagem": "img/minipizza.png",
       "alt": "Mini Pizza",
-      "tipo": "categoria",
-      "key": "minipizza"
+      "tipo": "categoria"
     }
   ],
-  "saboresCategorias": {
-    "coxinha": {
-      "nome": "Coxinhas",
-      "sabores": [
-        {
-          "id": 101,
-          "nome": "Coxinha de Frango",
-          "preco": 10.00,
-          "categoria": "coxinha",
-          "tipo": "sabor"
-        },
-        {
-          "id": 102,
-          "nome": "Coxinha de Frango com Catupiry",
-          "preco": 12.00,
-          "categoria": "coxinha",
-          "tipo": "sabor"
-        },
-        {
-          "id": 103,
-          "nome": "Coxinha de Carne",
-          "preco": 11.00,
-          "categoria": "coxinha",
-          "tipo": "sabor"
-        }
-      ]
-    },
-    "rosquinha": {
-      "nome": "Rosquinhas",
-      "sabores": [
-        {
-          "id": 201,
-          "nome": "Rosquinha de Baunilha",
-          "preco": 8.00,
-          "categoria": "rosquinha",
-          "tipo": "sabor"
-        },
-        {
-          "id": 202,
-          "nome": "Rosquinha de Chocolate",
-          "preco": 9.00,
-          "categoria": "rosquinha",
-          "tipo": "sabor"
-        },
-        {
-          "id": 203,
-          "nome": "Rosquinha de Leite",
-          "preco": 8.00,
-          "categoria": "rosquinha",
-          "tipo": "sabor"
-        },
-        {
-          "id": 204,
-          "nome": "Rosquinha de Coco",
-          "preco": 9.00,
-          "categoria": "rosquinha",
-          "tipo": "sabor"
-        }
-      ]
-    },
-    "minipizza": {
-      "nome": "Mini Pizzas",
-      "sabores": [
-        {
-          "id": 301,
-          "nome": "Mini Pizza de Calabresa",
-          "preco": 12.00,
-          "categoria": "minipizza",
-          "tipo": "sabor"
-        },
-        {
-          "id": 302,
-          "nome": "Mini Pizza de Queijo (Mussarela)",
-          "preco": 10.00,
-          "categoria": "minipizza",
-          "tipo": "sabor"
-        },
-        {
-          "id": 303,
-          "nome": "Mini Pizza de Frango com Catupiry",
-          "preco": 13.00,
-          "categoria": "minipizza",
-          "tipo": "sabor"
-        },
-        {
-          "id": 304,
-          "nome": "Mini Pizza Marguerita",
-          "preco": 11.00,
-          "categoria": "minipizza",
-          "tipo": "sabor"
-        },
-        {
-          "id": 305,
-          "nome": "Mini Pizza de Presunto e Queijo",
-          "preco": 12.00,
-          "categoria": "minipizza",
-          "tipo": "sabor"
-        }
-      ]
-    }
-  },
   "principaisProdutos": [
     {
       "id": 4,
@@ -150,7 +49,7 @@
       "nome": "Hamburgão",
       "preco": 10.00,
       "imagem": "img/hamburgao.jpg",
-      "alt": "hamburgao",
+      "alt": "Hamburgao",
       "tipo": "produto"
     },
     {
@@ -158,7 +57,7 @@
       "nome": "Esfiha",
       "preco": 10.00,
       "imagem": "img/esfiha.jpg",
-      "alt": "esfiha",
+      "alt": "Esfiha",
       "tipo": "produto"
     },
     {
@@ -166,7 +65,7 @@
       "nome": "Kibe",
       "preco": 10.00,
       "imagem": "img/kibe.jpg",
-      "alt": "kibe",
+      "alt": "Kibe",
       "tipo": "produto"
     }
   ]
